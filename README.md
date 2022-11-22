@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadikulu" alt="sadikulu" /></a> </p>
 
-- 🔭 I’m currently working on [Brothers Property](https://github.com/Sadikulu/brothers_property)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sadikulu?tab=repositories](https://github.com/Sadikulu?tab=repositories)
 
 - 💬 Ask me about **https://www.linkedin.com/in/sadik-ulucay/**
