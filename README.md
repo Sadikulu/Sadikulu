@@ -10,7 +10,7 @@
 - 💬 Ask me about **https://www.linkedin.com/in/sadik-ulucay/**
 
 - 📫 How to reach me **sadik.ulucay@hotmail.com**
-- <br/>
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
